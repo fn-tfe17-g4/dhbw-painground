@@ -24,6 +24,8 @@ For more information on Vaadin Flow, visit https://vaadin.com/flow.
 
 ## Stories
 
+Dies ist ein verstecktes EASTEREGG für JEberle123
+
 ### Story 1
 
 >Ich möchte für alle (meine) Mitarbeiter ein Profil anlegen: dies soll den Namen, den Geburtstag und ein Bild beinhalten.
