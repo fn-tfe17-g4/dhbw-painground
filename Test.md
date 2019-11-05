@@ -1,8 +1,9 @@
 #Example Projekt for DHBW lectures by iMazze and JEberle18
 
+
 #Dieser Commit sollte ein merge Conflict herbeifuehren ... mal schauen!
 #Simsalabim
-
+#diese Zeile wirde geadded
 
 
 [![Build Status](https://travis-ci.org/barclay-reg/dhbw-painground.svg?branch=master)](https://travis-ci.org/barclay-reg/dhbw-painground)
