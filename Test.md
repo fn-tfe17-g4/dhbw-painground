@@ -4,7 +4,7 @@
 #Dieser Commit sollte ein merge Conflict herbeifuehren ... mal schauen!
 #Simsalabim
 #diese Zeile wirde geadded
-
+#nochmal eine Zeile vom Max
 
 [![Build Status](https://travis-ci.org/barclay-reg/dhbw-painground.svg?branch=master)](https://travis-ci.org/barclay-reg/dhbw-painground)
 
