@@ -1,5 +1,6 @@
 #Example Projekt for DHBW lectures by iMazze and JEberle18
 
+So jetzt haben wir schon drei Liebesbriefe am LAufen!
 
 #Dieser Commit sollte ein merge Conflict herbeifuehren ... mal schauen!
 #Simsalabim
