@@ -1,4 +1,4 @@
-# Example Projekt for DHBW lectures
+#Example Projekt for DHBW lectures by iMazze and JEberle18
 
 [![Build Status](https://travis-ci.org/barclay-reg/dhbw-painground.svg?branch=master)](https://travis-ci.org/barclay-reg/dhbw-painground)
 
