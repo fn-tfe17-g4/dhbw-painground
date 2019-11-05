@@ -1,6 +1,8 @@
 #Example Projekt for DHBW lectures by iMazze and JEberle18
 
-#Dieser Commit sollte kein merge Conflict geben ... mal schauen!
+#Dieser Commit sollte ein merge Conflict herbeifuehren ... mal schauen!
+#Simsalabim
+
 
 
 [![Build Status](https://travis-ci.org/barclay-reg/dhbw-painground.svg?branch=master)](https://travis-ci.org/barclay-reg/dhbw-painground)
